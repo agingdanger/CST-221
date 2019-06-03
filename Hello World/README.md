@@ -1,0 +1,1 @@
+Hello! My name is Charles Henderson and this is for my CST-221 class at Grand Canyon University. I will be uploading c language projects and routinely updating this git as the weekly activities expect. 
